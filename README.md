@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://aatrick.github.io/Portfolio/](https://aatrick.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://aatrick.github.io/Portfolio/](https://aatrick.github.io/Portfolio/) or [https://github.com/Aatrick?tab=repositories](https://github.com/Aatrick?tab=repositories)
 
 - 📫 How to reach me **melis.emilio1@gmail.com**
 
