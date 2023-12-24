@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **melis.emilio1@gmail.com**
 
+- I'm passionate about Artificial intelligence and algorithmic
+
 - ⚡ Fun fact **I'm also Immortal 3 #5321 EMEA on Valorant**
 
 <h3 align="left">Connect with me:</h3>
