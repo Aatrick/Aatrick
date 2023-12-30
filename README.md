@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aatricks</h1>
 <h3 align="center">A passionate Computer Science Engineering student from France</h3>
 
-<p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p> <p align="right"> <a href="https://discordapp.com/users/293781611764514816" target="blank"><img src="https://img.shields.io/Discord/follow/aatricks?logo=Discord&style=for-the-badge" alt="aatricks" /></a> </p>
 
 - 🔭 I’m currently working on [Rust1111](https://github.com/Aatrick/Rust1111)
 
