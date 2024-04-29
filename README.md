@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
 
-- 🔭 I’m currently working on [Rust1111](https://github.com/Aatrick/Rust1111)
+- 🔭 I’m currently working on [Aatricks1111](https://github.com/Aatrick/Aatricks1111)
 
 - 🌱 I’m currently learning **Rust**
 
