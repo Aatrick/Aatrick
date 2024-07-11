@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
 
-- 🔭 I’m currently working on [LightDiffusion](https://github.com/Aatrick/LightDiffusion)
+- 🔭 I’m currently working on a [Light Novel Translator](https://github.com/Aatrick/LLMtl)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently in 3rd year of CSE
 
 - 👨‍💻 Most of my projects are available at my [Portfolio](https://aatrick.github.io/Portfolio/) or my [Github](https://github.com/Aatrick?tab=repositories)
 
