@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
 
-- 🔭 I’m currently procrastinating on [LightDiffusion](https://github.com/Aatrick/LightDiffusion)
+- 🔭 I’m currently making a [chess engine in C](https://github.com/Aatrick/CChess)
 
 - 🌱 I’m currently in 3rd year of CSE
 
