@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on LightDiffusion's website
 
-- ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion]
+- ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion)
 
 - 🌱 I’m currently in 3rd year of CSE
 
