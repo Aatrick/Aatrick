@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on LightDiffusion's website
 
+- ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion]
+
 - 🌱 I’m currently in 3rd year of CSE
 
 - 👨‍💻 Most of my projects are available at my [Portfolio](https://aatrick.github.io/Portfolio/) or my [Github](https://github.com/Aatrick?tab=repositories)
