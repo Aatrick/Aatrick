@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
 
-- 🔭 I’m currently working on LightDiffusion's website
-
 - ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion)
 
 - 🌱 I’m currently in 3rd year of CSE
