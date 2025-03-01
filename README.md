@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/emilio_meli" target="blank"><img src="https://img.shields.io/twitter/follow/aatricks?logo=twitter&style=for-the-badge" alt="aatricks" /></a> </p>
 
-- ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion), beating AI diffusion industry standards in speed and efficiency
+- ✨️Lead Dev and owner of LightDiffusion and [LightOrg](https://github.com/LightDiffusion), beating AI diffusion industry standards in speed and efficiency, test it [here](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next)
 
 - 🌱 I’m currently in 3rd year of CSE
 
