@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I'm also Immortal 3 #5321 EMEA on Valorant**
 
-![profile views](https://komarev.com/ghpvc/?username=aatricks&label=Profile%20views&color=blueviolet)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emilio_meli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aatricks" height="30" width="40" /></a>
